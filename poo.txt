@@ -1,0 +1,15 @@
+POO: se basa en el concepto de objetos
+
+Clase: plantilla donde se definen caracteristicas y comportamientos de los objetos que pueden 
+crear a partir de ella.
+
+Objeto: es una instancia de una clase. Representa un individuo o entidad específica y tiene 
+sus propias propiedades y comportamientos.
+
+Atributos: son las propiedades o características de un objeto. Definen el estado de un objeto 
+y se representan mediante variables en la clase.
+
+Métodos: son las acciones o comportamientos que un objeto puede realizar. Representan las 
+operaciones que pueden realizarse con un objeto y se definen como funciones en la clase.
+
+
